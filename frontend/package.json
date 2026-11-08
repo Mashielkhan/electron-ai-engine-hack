@@ -1,0 +1,13 @@
+{
+  "name": "screen-overlay-app",
+  "version": "1.0.0",
+  "description": "A screen overlay application built with Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.2.3",
+    "electron-rebuild": "^2.0.3"
+  }
+}
